@@ -1,0 +1,1 @@
+This script utlizes the python Cell Detection Library in order to count the number of bacteria in each frame of a GIF. As of current it must be run in Python 3.11 as the pytorch module is incompatible with the most recent version of python.
